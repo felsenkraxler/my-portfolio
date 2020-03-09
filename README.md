@@ -1,2 +1,2 @@
-# my-portfolio
-This is my portfolio
+# Stefans portfolio
+This is my portfolio It uses AWS and ReactJS
