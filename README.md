@@ -6,6 +6,7 @@ This is my portfolio It uses AWS and ReactJS
 
 - html 
 - css
+- AWS
 
 ```mermaid
 graph LR
