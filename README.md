@@ -4,8 +4,8 @@ This is my portfolio It uses AWS and ReactJS
 
 ## Technologies used
 
-.html 
-.css
+- html 
+- css
 
 ```mermaid
 graph LR
